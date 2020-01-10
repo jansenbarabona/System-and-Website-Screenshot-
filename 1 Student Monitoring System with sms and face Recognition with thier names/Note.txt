@@ -1,0 +1,1 @@
+Student Monitoring System with sms and face Recognition with thier names so that guard can determine if someone using ID's want to come In, Data Result can view thier parents when parents in other country Using Chatbot Messenger in Facebook Page. etc... other explainations

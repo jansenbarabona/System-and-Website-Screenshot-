@@ -1,0 +1,22 @@
+Job Work
+
+1) Making FreeNas Storage for all storage in 16th floor
+2) making Database Server for all Database in all Branches              PPI and BP  
+3) Attendance System in Branches 
+4) Biometric Ms Access Database
+5) Branches internet Online/Offline Monitoring System
+Website Portal
+Attendance Monitoring time in time out in Messenger
+Field Time in & time out Trace Location
+Door Access Automation when doorbell is open door
+Ubuntu Server
+Docker Server
+Desktop Automation
+Chat Bot Attendance
+Design POS Inventory App
+Computerized Enrollment System (STI Project)
+etc. . .
+
+College Work System
+Student Monitoring System with Sms and Face Recognation
+Face Recognation System
